@@ -22,6 +22,4 @@ This repository provides the following:
 
 * CDM and WSIDM subhalo density and circular velocity profiles
 
-* CDM and WSIDM subhalo central densities and pericentric distances
-
 * Please see [https://doi.org/10.5281/zenodo.14666735](https://doi.org/10.5281/zenodo.14666735) for the full data release.
