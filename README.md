@@ -1,4 +1,4 @@
-# COZMIC: Cosmological Zoom-in simulations with initial conditions beyond CDM
+# COZMIC Simulation Repository
 
 This repository provides the following:
 
