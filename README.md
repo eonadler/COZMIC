@@ -23,3 +23,9 @@ This repository provides the following:
 * CDM and WSIDM subhalo density and circular velocity profiles
 
 * Please see [https://doi.org/10.5281/zenodo.14666735](https://doi.org/10.5281/zenodo.14666735) for the full data release.
+
+## [The Effects of Linear Matter Power Spectrum Enhancement on Dark Matter Substructure](https://arxiv.org/abs/2507.16889)
+
+* Enhanced transfer functions
+
+* Please see [https://zenodo.org/records/16915369](https://zenodo.org/records/16915369) for the full data release.
